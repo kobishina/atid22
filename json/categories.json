@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "63ac2619542e5d9992f0178b"
+  },
+  "name": "Genesis - breshet",
+  "cat_url": "genesis",
+  "info": "The Book of Genesis  is the first book of the Hebrew Bible and the Christian Old Testament.[1] Its Hebrew name is the same as its first word, Bereshit. Genesis is an account of the creation of the world, the early history of humanity, and of Israel's ancestors and the origins of the Jewish people",
+  "img_url": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac2680542e5d9992f0178d"
+  },
+  "name": "Exodus - shmot",
+  "cat_url": "exodus",
+  "info": "The second book in the bible, that tell the history of hebrews pepole in egypt",
+  "img_url": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac2706542e5d9992f0178f"
+  },
+  "name": "Leviticus - vaikra",
+  "cat_url": "leviticus",
+  "info": "The book of Leviticus is the third book of the Torah (the Pentateuch) and of the Old Testament",
+  "img_url": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac276e542e5d9992f01791"
+  },
+  "name": "Numbers - bmedbar",
+  "cat_url": "numbers",
+  "info": "Numbers begins at Mount Sinai, where the Israelites have received their laws and covenant from God and God has taken up residence among them in the sanctuary.The task before them is to take possession of the Promised Land. ",
+  "img_url": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac27df542e5d9992f01793"
+  },
+  "name": "Deuteronomy - dvarim",
+  "cat_url": "deuteronomy",
+  "info": "Chapters 1–30 of the book consist of three sermons or speeches delivered to the Israelites by Moses on the Plains of Moab, shortly before they enter the Promised Land. The first sermon recounts the forty years of wilderness wanderings which had led to that moment.",
+  "img_url": "",
+  "__v": 0
+}]

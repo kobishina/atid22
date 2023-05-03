@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "63ac3368adf642171b2f21dc"
+  },
+  "title": "Bereshit",
+  "info": "G‑d creates the world in six days. On the first day He makes darkness and light. On the second day He forms the heavens, dividing the “upper waters” from the “lower waters.” On the third day He sets the boundaries of land and sea, and calls forth trees and greenery from the earth. On the fourth day He fixes the position of the sun, moon and stars as timekeepers and illuminators of the earth. Fish, birds and reptiles are created on the fifth day; land animals, and then the human being, on the sixth. G‑d ceases work on the seventh day, and sanctifies it as a day of rest. <br> G‑d forms the human body from the dust of the earth, and blows into his nostrils a 'living soul.” Originally Man is a single person, but deciding that “it is not good that man be alone,' G‑d takes a 'side' from the man, forms it into a woman, and marries them to each other.",
+  "cat_url": "genesis",
+  "img_url": "",
+  "active": true,
+  "date_created": {
+    "$date": {
+      "$numberLong": "1672229736037"
+    }
+  },
+  "user_id": "63abf46f1a831aebb76b9eb5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac3bbeadf642171b2f21e0"
+  },
+  "title": "Vayigash",
+  "info": "Judah approaches Joseph to plead for the release of Benjamin, offering himself as a slave to the Egyptian ruler in Benjamin’s stead. Upon witnessing his brothers’ loyalty to one another, Joseph reveals his identity to them.'I am Joseph,' he declares. 'Is my father still alive?' The brothers are overcome by shame and remorse, but Joseph comforts them. “It was not you who sent me here,” he says to them, 'but G‑d. It has all been ordained from Above to save us, and the entire region, from famine.'The brothers rush back to Canaan with the news. Jacob comes to Egypt with his sons and their families—seventy souls in all—and is reunited with his beloved son after 22 years. On his way to Egypt he receives the divine promise: “Fear not to go down to Egypt; for I will there make of you a great nation. I will go down with you into Egypt, and I will also surely bring you up again.",
+  "cat_url": "genesis",
+  "img_url": "",
+  "active": true,
+  "date_created": {
+    "$date": {
+      "$numberLong": "1672231870108"
+    }
+  },
+  "user_id": "63abf46f1a831aebb76b9eb5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac3c08adf642171b2f21e2"
+  },
+  "title": "Shemot",
+  "info": "The children of Israel multiply in Egypt. Threatened by their growing numbers, Pharaoh enslaves them and orders the Hebrew midwives, Shifrah and Puah, to kill all male babies at birth. When they do not comply, he commands his people to cast the Hebrew babies into the Nile. A child is born to Yocheved, the daughter of Levi, and her husband, Amram, and placed in a basket on the river, while the baby’s sister, Miriam, stands watch from afar. Pharaoh’s daughter discovers the boy, raises him as her son, and names him Moses.",
+  "cat_url": "exodus",
+  "img_url": "",
+  "active": true,
+  "date_created": {
+    "$date": {
+      "$numberLong": "1672231944059"
+    }
+  },
+  "user_id": "63abf46f1a831aebb76b9eb5",
+  "__v": 0
+}]

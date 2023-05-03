@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "63a060483193b57675f70d51"
+  },
+  "name": "oscar ofnik",
+  "email": "oscar@walla.com",
+  "password": "$2b$10$Lyj.tYo7HvfO4xc7ATNIjORGLXXuPJoTelP1zLbxxiInzeOJUCoOm",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1671454792514"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a0619d3638a2aaa897267a"
+  },
+  "name": "toto agorila",
+  "email": "toto@walla.com",
+  "password": "$2b$10$NmeQtbd4da88Eh/nZOtlxef65j3tOYSWICBy8NUBnUpsnu7sajLyG",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1671455133434"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a2d7fd1152cafe82d6c8c1"
+  },
+  "name": "david ben yishai",
+  "email": "david@walla.com",
+  "password": "$2b$10$TKv3KkPoJiqhsPpwYVuL3uHmhxMB4Yz9GrWJtC0XDTX/5krG9M5ZG",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1671616509168"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a95c970bd4ce671cb8c4ce"
+  },
+  "name": "shlomo ben david",
+  "email": "shlomo@walla.com",
+  "password": "$2b$10$m3fijO7RkzKRohcluu4nR.CWo1honsljzy3jm9DWyEpCzYXwEXVDK",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1672043671194"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63abf46f1a831aebb76b9eb5"
+  },
+  "name": "chezkaio ben ahaz",
+  "email": "chezi@walla.com",
+  "password": "$2b$10$wPNuIdAfqa3SLDToHvlHK.smdo9ZgUiC85fT0ShVmETRfBKdhRAW.",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1672213615905"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b28cf1cde0adbfb96dc619"
+  },
+  "name": "yeshiao ben amotz",
+  "email": "yoshi@walla.com",
+  "password": "$2b$10$LSHtr2uIGbOgckKgvyZzTuqmRpBT9ZQueSczj8/I5q3EeGsqOe1Y2",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1672645873572"
+    }
+  },
+  "__v": 0
+}]
